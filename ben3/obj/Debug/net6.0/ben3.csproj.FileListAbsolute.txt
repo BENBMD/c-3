@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\Рабочий стол\Homework\BEN_C#3\c-3\ben3\obj\Debug\net6.0\ben3.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Рабочий стол\Homework\BEN_C#3\c-3\ben3\obj\Debug\net6.0\ben3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Рабочий стол\Homework\BEN_C#3\c-3\ben3\obj\Debug\net6.0\ben3.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Рабочий стол\Homework\BEN_C#3\c-3\ben3\obj\Debug\net6.0\ben3.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Рабочий стол\Homework\BEN_C#3\c-3\ben3\obj\Debug\net6.0\ben3.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Рабочий стол\Homework\BEN_C#3\c-3\ben3\bin\Debug\net6.0\ben3.exe
+C:\Users\Acer\OneDrive\Рабочий стол\Homework\BEN_C#3\c-3\ben3\bin\Debug\net6.0\ben3.deps.json
+C:\Users\Acer\OneDrive\Рабочий стол\Homework\BEN_C#3\c-3\ben3\bin\Debug\net6.0\ben3.runtimeconfig.json
+C:\Users\Acer\OneDrive\Рабочий стол\Homework\BEN_C#3\c-3\ben3\bin\Debug\net6.0\ben3.dll
+C:\Users\Acer\OneDrive\Рабочий стол\Homework\BEN_C#3\c-3\ben3\bin\Debug\net6.0\ben3.pdb
+C:\Users\Acer\OneDrive\Рабочий стол\Homework\BEN_C#3\c-3\ben3\obj\Debug\net6.0\ben3.dll
+C:\Users\Acer\OneDrive\Рабочий стол\Homework\BEN_C#3\c-3\ben3\obj\Debug\net6.0\refint\ben3.dll
+C:\Users\Acer\OneDrive\Рабочий стол\Homework\BEN_C#3\c-3\ben3\obj\Debug\net6.0\ben3.pdb
+C:\Users\Acer\OneDrive\Рабочий стол\Homework\BEN_C#3\c-3\ben3\obj\Debug\net6.0\ben3.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Рабочий стол\Homework\BEN_C#3\c-3\ben3\obj\Debug\net6.0\ref\ben3.dll
